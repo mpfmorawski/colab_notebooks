@@ -1,0 +1,1 @@
+Solution notebooks for the [exercises](https://github.com/mrdbourke/pytorch-deep-learning/tree/main/extras/exercises) prepared by [mrdbourke](https://github.com/mrdbourke) for the PyTorch deep learning teaching materials.
